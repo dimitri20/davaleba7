@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/gfkl/.dotnet/store/|arch|/|tfm|",
+      "/home/gfkl/.nuget/packages"
+    ]
+  }
+}

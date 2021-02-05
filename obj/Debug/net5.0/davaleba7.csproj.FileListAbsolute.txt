@@ -1,0 +1,16 @@
+/home/gfkl/Desktop/davaleba7/bin/Debug/net5.0/davaleba7
+/home/gfkl/Desktop/davaleba7/bin/Debug/net5.0/davaleba7.deps.json
+/home/gfkl/Desktop/davaleba7/bin/Debug/net5.0/davaleba7.runtimeconfig.json
+/home/gfkl/Desktop/davaleba7/bin/Debug/net5.0/davaleba7.runtimeconfig.dev.json
+/home/gfkl/Desktop/davaleba7/bin/Debug/net5.0/davaleba7.dll
+/home/gfkl/Desktop/davaleba7/bin/Debug/net5.0/ref/davaleba7.dll
+/home/gfkl/Desktop/davaleba7/bin/Debug/net5.0/davaleba7.pdb
+/home/gfkl/Desktop/davaleba7/obj/Debug/net5.0/davaleba7.csprojAssemblyReference.cache
+/home/gfkl/Desktop/davaleba7/obj/Debug/net5.0/davaleba7.GeneratedMSBuildEditorConfig.editorconfig
+/home/gfkl/Desktop/davaleba7/obj/Debug/net5.0/davaleba7.AssemblyInfoInputs.cache
+/home/gfkl/Desktop/davaleba7/obj/Debug/net5.0/davaleba7.AssemblyInfo.cs
+/home/gfkl/Desktop/davaleba7/obj/Debug/net5.0/davaleba7.csproj.CoreCompileInputs.cache
+/home/gfkl/Desktop/davaleba7/obj/Debug/net5.0/davaleba7.dll
+/home/gfkl/Desktop/davaleba7/obj/Debug/net5.0/ref/davaleba7.dll
+/home/gfkl/Desktop/davaleba7/obj/Debug/net5.0/davaleba7.pdb
+/home/gfkl/Desktop/davaleba7/obj/Debug/net5.0/davaleba7.genruntimeconfig.cache
